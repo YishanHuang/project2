@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 { font-weight: bold; }
  
 h1 {
   line-height: 1em;
-  margin: 1.125em 15em 1.125em 0;
+  margin: 1.125em 0em 1.125em 1.125em;
 } 
  
 h4 {
@@ -52,14 +52,14 @@ h4 {
 }
  
 p {
-  margin: 1.125em 1em 1.125em 1em ;
+  margin: 1.125em 1.125em 1.125em 1.125em ;
 }
 
 
 
 ul {
   border-top: none;
-  margin: 0 7em 0 8em;
+  margin: 0 2em 0 2em;
   color: rgb(201, 201, 201)
 }
 

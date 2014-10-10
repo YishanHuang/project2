@@ -63,6 +63,13 @@ ul {
   color: rgb(201, 201, 201)
 }
 
+ #links {
+                      position: absolute;
+                      float: left;
+                      word-spacing: 30px;
+		      right: 5%;
+ }
+
 @media all and ( min-width: 700px )
   {
   img {   
